@@ -22,3 +22,6 @@ and 4 output variables:
 * Latter retention (%)
 * Final discharge capacity (mAh/g)
 
+**ACKNOWLEDGEMENT**
+---
+This work was supported by Samsung Research Funding & Incubation Center of Samsung Electronics under Project Number SRFC-MA2202-04.
